@@ -2,7 +2,7 @@
 Predict Reply Time from RUNA
 
 # Requirements
-numpy
-matplotlib
-scipy
-tqdm
+* numpy
+* matplotlib
+* scipy
+* tqdm
