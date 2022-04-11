@@ -1,5 +1,5 @@
-# PRTR
-Predict Reply Time from RUNA
+# ARR
+Analytical model of Reply time from Runa.
 
 # Requirements
 * numpy
